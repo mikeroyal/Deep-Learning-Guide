@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/133943699-6dcfcb40-ddf7-4501-86e0-41e8aee91fe2.png">
   <br />
   Deep Learning Guide
 </h1>
@@ -9,11 +9,11 @@
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/133943702-f78c7d7c-c27a-48d3-b30a-1785b1d7eaac.png">
   <br />
 </p>
 
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/133943716-5ed05027-6b17-4342-9520-4ea12f9d8f02.png">
 
 **Deep Learning diagram.  Source: [ResearchGate](https://www.researchgate.net/figure/Deep-learning-diagram_fig5_323784695)**
 
